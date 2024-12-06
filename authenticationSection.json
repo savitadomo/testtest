@@ -1,0 +1,24 @@
+{
+  "type": "new",
+  "authCodeText": null,
+  "userName": "****",
+  "password": "****",
+  "apiKey": "****",
+  "clientKey": "****",
+  "clientSecret": "****",
+  "authorizationURL": null,
+  "accessTokenURL": null,
+  "oauthUserName": "****",
+  "oauthPassword": "****",
+  "scope": null,
+  "customAccountFields": [
+    {
+      "label": "test",
+      "type": "password",
+      "value": "****"
+    }
+  ],
+  "additionalParameters": null,
+  "tokenAddlParams": null,
+  "accesstokenMethod": null
+}
